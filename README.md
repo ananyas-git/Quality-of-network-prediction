@@ -1,2 +1,12 @@
 
-a cross-platform desktop tool that detects active video streams, monitors real-time network metrics (latency, jitter, loss, throughput), and uses ML to predict streaming quality (Smooth/May Buffer/Poor), with an interactive dashboard and actionable performance tips.
+Features
+
+Machine learning model for network quality prediction
+
+Real-time prediction capability
+
+Web interface for visualization and monitoring
+
+Performance evaluation and analysis
+
+The project includes a web-based interface that allows users to input network parameters and view predicted network quality in real time.
